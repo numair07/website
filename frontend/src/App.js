@@ -1,10 +1,9 @@
 import React from "react";
+import Navigation from "./components/navigation/navigation";
 
 function App() {
   return (
-    <div className="website-container">
-      Hello There!
-    </div>
+    <Navigation />
   );
 }
 
